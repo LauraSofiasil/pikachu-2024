@@ -16,4 +16,4 @@ O intuito deste projeto é colocar em prática o conhecimento adquirido sobre as
 
 ---
 # Autor
-- [Laura Sofia](https://github.com/LauraSofiasil)
+- [Laura Sofia](https://www.linkedin.com/in/laura-sofia-0a5b06326/?trk=opento_sprofile_topcard)
