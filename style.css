@@ -177,4 +177,7 @@ footer{
     .action a{
         font-size: 32px;
     }
+    .pikachu-img{
+        height: 50vh;
+    }
 }
